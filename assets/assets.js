@@ -53,11 +53,11 @@ import female_7 from "./daie_7.png"
 import female_8 from "./daie_8.png"
 
 // Buku
-import buku_1 from "./buku_1.png"
-import buku_2 from "./buku_2.png"
-import buku_3 from "./buku_3.png"
-import buku_4 from "./buku_4.png"
-import buku_5 from "./buku_5.png"
+import buku_1 from "./Buku_1.png"
+import buku_2 from "./Buku_2.png"
+import buku_3 from "./Buku_3.png"
+import buku_4 from "./Buku_4.png"
+import buku_5 from "./Buku_5.png"
 
 // partnership logo
 import rockstar from "./rockstar.png"
