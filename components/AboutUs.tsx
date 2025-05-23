@@ -4,7 +4,7 @@ import { assets } from "@/assets/assets";
 
 const AboutUs = () => {
   return (
-    <div className="flex flex-col justify-center items-center min-h-[100vh] page1-bg pt-20 overflow-x-hidden">
+    <div className="flex flex-col justify-center items-center min-h-[100vh] page1-bg pt-25 overflow-x-hidden">
       <div className="flex lg:flex-row flex-col gap-10 items-center justify-center px-4 md:px-10 w-full">
         {/* Left Section */}
         <div className=" flex flex-col gap-4 page1-content max-w-xl">
