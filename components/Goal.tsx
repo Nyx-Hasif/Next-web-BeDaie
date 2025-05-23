@@ -48,8 +48,8 @@ const Goal = () => {
         {/* Content layer (kekal jelas) */}
         <div className="relative z-10">
             <div className='flex items-center gap-4 mb-4'>
-            <Image draggable={false} src={assets.icon_visi} alt='goal' width={100} height={100} />
-            <h1 className='text-3xl md:text-5xl font-bold'>VISI</h1>
+            <Image draggable={false} src={assets.icon_misi} alt='goal' width={100} height={100} />
+            <h1 className='text-3xl md:text-5xl font-bold'>MISI</h1>
             </div>
             <h2 className='text-2xl md:text-4xl font-medium mb-4'>Interaksi dengan Al-Quran secara Total melalui Baca, Faham & Amal
             </h2>

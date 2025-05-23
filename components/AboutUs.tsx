@@ -17,7 +17,7 @@ const AboutUs = () => {
           />
           <p className="sm:text-4xl text-2xl">
             BeDaie adalah jenama dibawah SifuTutor yang telah menyediakan
-            perkhidmatan tutor peribadi sejak 2022.
+            perkhidmatan tutor peribadi sejak 2021.
           </p>
         </div>
 
@@ -40,7 +40,7 @@ const AboutUs = () => {
       </div>
 
       {/* Bottom Image */}
-      <div className="w-full max-w-7xl px-4 md:px-10 mt-10 page1-content">
+      <div className="w-full max-w-7xl px-4 md:px-10  page1-content">
         <Image
           draggable={false}
           src={assets.mergeman}
