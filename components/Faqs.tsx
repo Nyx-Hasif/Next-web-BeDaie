@@ -13,23 +13,23 @@ const Faqs = () => {
 
         <div className='border border-black' style={{ backgroundColor: '#38b6ff28' }}>
             <div className='border border-black p-4 flex flex-row gap-10 rounded-3xl items-center m-8 bg-white'>
-               <FontAwesomeIcon icon={faCirclePlus} className='min-w-10 h-10 cursor-pointer' />
+               <FontAwesomeIcon icon={faCirclePlus} size='2xl' className='min-w-10 h-10 cursor-pointer' />
                 <h2 className='md:text-4xl text-xl'>Bagaimanakah mod pembelajaran secara online dan offline?</h2>
             </div>  
             <div className='border border-black p-4 flex flex-row gap-10 rounded-3xl items-center m-8 bg-white' >
-            <FontAwesomeIcon icon={faCirclePlus} className='min-w-10 h-10 cursor-pointer' />
+            <FontAwesomeIcon icon={faCirclePlus} size='2xl' className='min-w-10 h-10 cursor-pointer' />
                 <h2 className='md:text-4xl text-xl'>Berapa lamakah masa yang diperlukan untuk pandai mengaji?</h2>
             </div>  
             <div className='border border-black p-4 flex flex-row gap-10 rounded-3xl items-center m-8 bg-white '>
-            <FontAwesomeIcon icon={faCirclePlus} className='min-w-10 h-10 cursor-pointer' />
+            <FontAwesomeIcon icon={faCirclePlus} size='2xl' className='min-w-10 h-10 cursor-pointer' />
                 <h2 className='md:text-4xl text-xl'>Adakah terdapat had umur untuk mendaftar mengaji?</h2>
             </div>  
             <div className='border border-black p-4 flex flex-row gap-10 rounded-3xl items-center m-8 bg-white'>
-            <FontAwesomeIcon icon={faCirclePlus} className='min-w-10 h-10 cursor-pointer' />
+            <FontAwesomeIcon icon={faCirclePlus} size='2xl' className='min-w-10 h-10 cursor-pointer' />
                 <h2 className='md:text-4xl text-xl'>Apakah yang boleh dipelajari di BeDaie.com?</h2>
             </div>  
             <div className='border border-black p-4 flex flex-row gap-10 rounded-3xl items-center m-8 bg-white'>
-            <FontAwesomeIcon icon={faCirclePlus} className='min-w-10 h-10 cursor-pointer' />
+            <FontAwesomeIcon icon={faCirclePlus} size='2xl' className='min-w-10 h-10 cursor-pointer' />
                 <h2 className='md:text-4xl text-xl'>Bolehkah saya mengajak pasangan atau anak untuk belajar bersama</h2>
             </div>  
         </div>
