@@ -62,7 +62,7 @@ const Carousel = () => {
             </div>
           </div>
 
-          <div className="flex flex-col items-start text-white font-bold text-md md:text-xl gap-2 border border-white sm:h-[20%] py-2 px-2 sm:py-4 sm:px-4 absolute bottom-2 sm:bottom-4 left-2 right-2 md:left-4 md:right-4">
+          <div className="flex flex-col items-start text-white font-bold text-md md:text-xl gap-2  sm:h-[20%] py-2 px-2 sm:py-4 sm:px-4 absolute bottom-2 sm:bottom-4 left-2 right-2 md:left-4 md:right-4">
             <h1>{images[currentIndex].title}</h1>
             <button className="bg-white text-black px-2 py-2 rounded-md">
               Learn more
